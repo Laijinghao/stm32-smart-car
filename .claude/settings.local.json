@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL --connect-timeout 15 --max-time 30 \"https://gh-proxy.com/https://raw.githubusercontent.com/xiincs/claude-code-vision-skill/main/vision/SKILL.md\")",
+      "Bash(curl -sL --connect-timeout 15 --max-time 30 \"https://gh-proxy.com/https://raw.githubusercontent.com/xiincs/claude-code-vision-skill/main/install.py\")"
+    ]
+  }
+}

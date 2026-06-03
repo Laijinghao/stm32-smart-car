@@ -1,0 +1,31 @@
+# Keil build outputs
+Project/Objects/
+Project/Listings/
+*.uvguix.*
+*.scvd
+*.crf
+*.d
+*.o
+*.dep
+*.iex
+*.axf
+*.hex
+*.htm
+*.lnp
+*.map
+*.plg
+*.sct
+*.tra
+*.Administrator
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JLink / debugger logs
+*.jlink
+*.log
